@@ -1,0 +1,7 @@
+{
+  "name": "rollup-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcin Krawczyk <marckraw@icloud.com>",
+  "license": "MIT"
+}
